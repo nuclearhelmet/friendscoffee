@@ -1,4 +1,4 @@
-# friendscoffee
+# Friends Coffee Arayüz Eğitim Dosyası
 Friends Coffee Eğitim Projesi
 
 <h2>Kullanılan Kaynaklar</h2>
